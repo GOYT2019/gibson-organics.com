@@ -63,6 +63,11 @@ header.masthead h1 {
   }
 }
 
+.responsive {
+  width:100%;
+  height: auto;
+}
+
 .features-icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
